@@ -4,7 +4,7 @@ game 'gta5'
 
 lua54 'yes'
 
-description "Admin Jail Script Modified By Qvs"
+description "Admin Jail Script Modified By itsB"
 
 server_scripts {
 	"@oxmysql/lib/MySQL.lua",
